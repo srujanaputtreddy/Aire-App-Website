@@ -1,0 +1,60 @@
+p{
+        padding: 50px;
+        font-size: 32px;
+        font-weight: bold;
+        text-align: center;
+        background-color: #dbdfe5; 
+    }
+
+body{
+		background-color: #d1d1d1;
+		font-family: 'Titillium Web', sans-serif ;
+		text-align: center;
+}
+
+.btn, .btn:focus, .btn:active, .btn.active:focus, .btn:active, .btn:hover
+{
+		border-radius: 0px;
+		border: 3px solid black;
+		width:270px;
+		height:60px;
+		background-color: #d1d1d1;
+		background-image: none;
+		color:#000000;
+		font-family: 'TitilliumWeb',sans-serif !important ;
+		font-size: 18px;
+		font-weight: 700;
+		line-height: 28px;
+		text-transform: uppercase;
+}
+
+#aire-logo-home{
+		margin-top: 150px;
+}
+
+#logo_container h1{
+		font-family: 'TitilliumWeb', sans-serif !important ;
+		font-size: 60px;
+		font-weight: 100;
+		line-height: 64px;
+		text-align: center;
+		padding-bottom: 20px;
+}
+
+#navLogo {
+    	
+    	padding-top: 5px;
+    	padding-right: 25px;
+    	padding-left: 5px;
+}
+
+#mainNav{
+		border-radius: 0px;
+}
+
+#mainNavMenu{
+		text-align: left;	
+		text-transform: uppercase;
+		color:white;	
+}
+
